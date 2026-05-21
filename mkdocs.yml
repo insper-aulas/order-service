@@ -1,0 +1,11 @@
+site_name: Order Service
+site_description: Order API documentation for the store microservices platform.
+theme:
+  name: material
+  language: en
+nav:
+  - Home: index.md
+  - Endpoints: endpoints.md
+  - Architecture: architecture.md
+  - Bottlenecks: bottlenecks.md
+  - Repositories: repositorios.md
